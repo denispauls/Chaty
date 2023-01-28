@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/drawable/background_right.xml" value="0.2205" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/activity_login.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/activity_main.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/activity_willkommen.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/content_main.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/fragment_chats.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/fragment_search.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/layout/fragment_settings.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Chaty/app/src/main/res/menu/menu_main.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
